@@ -119,4 +119,26 @@ a:hover {
   }
 }
 
-/* NEXT: video 2 */
+/* HERO */
+
+.hero {
+}
+
+.hero__wrapper {
+  position: relative;
+}
+
+.hero__image {
+  position: absolute;
+}
+
+.hero__text {
+}
+
+.hero__description {
+}
+
+.hero__contact {
+}
+
+/* 49:29 */
